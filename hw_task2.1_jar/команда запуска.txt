@@ -1,0 +1,1 @@
+java -jar hw_task2.1.jar strings.txt
